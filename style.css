@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.bgColor{
+    padding: 2.5vh;
+    background-color: #b5d2dd;
+    min-height: 100vh;
+}
+.downloadBTN{
+    border-radius: 10px;
+}
+.myNav{
+    min-height: 12vh;
+}
+.innerDiv{
+    background-color: #fff;
+    border-radius: 0 0 10px 10px;
+    
+    /* height: 95vh; */
+}
+#main{
+    background-color: #fff;
+    min-height: 95vh;
+    overflow-x: hidden;
+}
